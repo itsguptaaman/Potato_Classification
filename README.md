@@ -4,7 +4,7 @@ Farmers who grow potatoes are facing lots of economic losses every year because 
 
 AtLiQ Agriculture is an AI company that happens to solve problems in agriculture domain and that company has taken this project and they have decided to build a mobile application which they can give it to a farmer. And Farmer all they need to do is go to their farm and just take a picture of the plant and the mobile application will tell them weather the potato plant is healthy or it has one these diseases and behind the scene it will be using deep learning and convolutional neural network.
 
-# Teck Stack Used:-
+# Tech Stack Used:-
 ![Tech Stack used](https://user-images.githubusercontent.com/88229259/217060158-f7bd8f19-4610-4cc2-bac0-0e9622e0d696.PNG)
 
 
